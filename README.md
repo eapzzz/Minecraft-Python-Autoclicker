@@ -1,7 +1,7 @@
 # 🪓 Minecraft Auto Clicker Script (Python)
-
-## ⚠️ You have to have `redmobs.zip` installed and put as a resource pack in your Minecraft folder!
-
+ 
+## ⚠️ You have to have `redmobs.zip` installed and put as a resource pack in your Minecraft folder! 
+ 
 A simple and customizable **auto clicker for Minecraft**, written in Python.  
 Built for farming, grinding, and relieving your fingers from checking if mobs are ready to hit.
 
